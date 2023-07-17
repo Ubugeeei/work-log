@@ -8,6 +8,6 @@
   <div class="links">
     <a class="btn btn-mod btn-border btn-large btn-round" href="https://github.com/Ubugeeei/work-log/discussions/categories/about-me">About Me</a>
     | <a class="btn btn-mod btn-border btn-large btn-round" href="https://github.com/Ubugeeei/work-log/discussions/categories/scraps">Scraps</a>
-    | <a class="btn btn-mod btn-border btn-large btn-round" href="https://github.com/Ubugeeei/work-log/discussions/categories/work-logs">Work logs</a>
+    | <a class="btn btn-mod btn-border btn-large btn-round" href="https://github.com/Ubugeeei/work-log/discussions/categories/work-logs">Work Logs</a>
   </div>  
 </div>
